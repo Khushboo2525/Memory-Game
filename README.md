@@ -1,2 +1,1 @@
-# Memory-Game
-A web-based Memory-Game built using HTML, CSS, and JavaScript.
+This project is a web-based memory game built using HTML, CSS, and JavaScript. It is designed to test and enhance your memory skills by challenging you to match pairs of cards within a given time limit.
